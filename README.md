@@ -2,6 +2,22 @@
 
 本项目是[玄离199](https://space.bilibili.com/67079745)每周科技补全视频中提到的软件和开源项目总结，方便观众收藏和搜索。文档内容来自视频文稿，所以部分内容直接读起来会比较奇怪，建议配合视频观看。
 
+### 2025年7月
+
+- 第58期：[2025年7月5日-2025年7月12日](https://github.com/xuanli199/weekly/blob/main/docs/58.md)
+
+- 第57期：[2025年6月28日-2025年7月5日](https://github.com/xuanli199/weekly/blob/main/docs/57.md)
+
+### 2025年6月
+
+- 第56期：[2025年6月21日-2025年6月28日](https://github.com/xuanli199/weekly/blob/main/docs/56.md)
+
+- 第55期：[2025年6月14日-2025年6月21日](https://github.com/xuanli199/weekly/blob/main/docs/55.md)
+
+- 第54期：[2025年6月7日-2025年6月14日](https://github.com/xuanli199/weekly/blob/main/docs/54.md)
+
+- 第53期：[2025年5月31日-2025年6月7日](https://github.com/xuanli199/weekly/blob/main/docs/53.md)
+
 ### 2025年5月
 
 - 第52期：[2025年5月24日-2025年5月31日](https://github.com/xuanli199/weekly/blob/main/docs/52.md)
