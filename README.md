@@ -2,7 +2,16 @@
 
 本项目是[玄离199](https://space.bilibili.com/67079745)每周科技补全视频中提到的软件和开源项目总结，方便观众收藏和搜索。文档内容来自视频文稿，所以部分内容直接读起来会比较奇怪，建议配合视频观看。
 
+
+### 2025年8月
+
+- 第61期：[2025年7月26日-2025年8月2日](https://github.com/xuanli199/weekly/blob/main/docs/61.md)
+
 ### 2025年7月
+
+- 第60期：[2025年7月19日-2025年7月26日](https://github.com/xuanli199/weekly/blob/main/docs/60.md)
+
+- 第59期：[2025年7月12日-2025年7月19日](https://github.com/xuanli199/weekly/blob/main/docs/59.md)
 
 - 第58期：[2025年7月5日-2025年7月12日](https://github.com/xuanli199/weekly/blob/main/docs/58.md)
 
@@ -105,16 +114,16 @@
 
 ### 2024年7月
 
-- 第九期：[2024年7月27日-2024年8月3日](https://github.com/xuanli199/weekly/blob/main/docs/9.md)
-- 第八期：[2024年7月20日-2024年7月27日](https://github.com/xuanli199/weekly/blob/main/docs/8.md)
-- 第七期：[2024年7月13日-2024年7月20日](https://github.com/xuanli199/weekly/blob/main/docs/7.md)
-- 第六期：[2024年7月6日-2024年7月13日](https://github.com/xuanli199/weekly/blob/main/docs/6.md)
+- 第九期：[2024年7月27日-2024年8月3日](https://github.com/xuanli199/weekly/blob/main/docs/09.md)
+- 第八期：[2024年7月20日-2024年7月27日](https://github.com/xuanli199/weekly/blob/main/docs/08.md)
+- 第七期：[2024年7月13日-2024年7月20日](https://github.com/xuanli199/weekly/blob/main/docs/07.md)
+- 第六期：[2024年7月6日-2024年7月13日](https://github.com/xuanli199/weekly/blob/main/docs/06.md)
 
 ### 2024年6月
 
-- 第五期：[2024年6月29日-2024年7月6日](https://github.com/xuanli199/weekly/blob/main/docs/5.md)
-- 第四期：[2024年6月22日-2024年6月29日](https://github.com/xuanli199/weekly/blob/main/docs/4.md)
-- 第三期：[2024年6月15日-2024年6月22日](https://github.com/xuanli199/weekly/blob/main/docs/3.md)
+- 第五期：[2024年6月29日-2024年7月6日](https://github.com/xuanli199/weekly/blob/main/docs/05.md)
+- 第四期：[2024年6月22日-2024年6月29日](https://github.com/xuanli199/weekly/blob/main/docs/04.md)
+- 第三期：[2024年6月15日-2024年6月22日](https://github.com/xuanli199/weekly/blob/main/docs/03.md)
 - 第二期：2024年6月9日-2024年6月16日 暂无内容
-- 第一期：[2024年6月3日-2024年6月9日](https://github.com/xuanli199/weekly/blob/main/docs/1.md)
+- 第一期：[2024年6月3日-2024年6月9日](https://github.com/xuanli199/weekly/blob/main/docs/01.md)
   
