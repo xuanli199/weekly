@@ -5,6 +5,10 @@
 
 ### 2025年8月
 
+- 第65期：[2025年8月9日-2025年8月16日](https://github.com/xuanli199/weekly/blob/main/docs/65.md)
+
+- 第64期：[2025年8月9日-2025年8月16日](https://github.com/xuanli199/weekly/blob/main/docs/64.md)
+
 - 第63期：[2025年8月9日-2025年8月16日](https://github.com/xuanli199/weekly/blob/main/docs/63.md)
 
 - 第62期：[2025年8月2日-2025年8月9日](https://github.com/xuanli199/weekly/blob/main/docs/62.md)
