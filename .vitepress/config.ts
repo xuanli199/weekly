@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
   srcDir: "./",
+  base: "/weekly/",
   srcExclude: ["node_modules/**/*"],
   rewrites: {
     "README.md": "index.md",
@@ -17,4 +18,4 @@ export default defineConfig({
       { text: "Github", link: "https://github.com/xuanli199/weekly" },
     ],
   },
-})
+});
