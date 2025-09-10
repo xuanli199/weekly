@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 import { RSSOptions, RssPlugin } from "vitepress-plugin-rss";
 const RSS: RSSOptions = {
   title: "玄离199 每周科技补全",
-  baseUrl: "https://xuanli199.github.io/weekly",
+  baseUrl: "https://xuanli199.github.io",
   copyright: "玄离199",
   author: { name: '"玄离199"' },
   filter: (post) => !post.filepath.includes("README.md"),
