@@ -7,7 +7,8 @@
     "serve": "vitepress serve"
   },
   "devDependencies": {
-    "vitepress": "1.6.4"
+    "vitepress": "1.6.4",
+    "vitepress-plugin-rss": "0.3.1"
   },
   "packageManager": "pnpm@10.15.1",
   "pnpm": {
