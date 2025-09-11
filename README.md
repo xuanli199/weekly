@@ -4,6 +4,9 @@
 
 静态博客版：<https://xuanli199.github.io/weekly/>
 
+飞书版：<https://zi0953ehkw.feishu.cn/wiki/TOHawcRzricMQ3kr6lmc7x8nnGc>
+
+
 ### 2025年9月
 
 - 第66期：[2025年8月30日-2025年9月6日](docs/66.md)
