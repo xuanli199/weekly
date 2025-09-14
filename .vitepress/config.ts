@@ -20,6 +20,7 @@ export default defineConfig({
     "README.md": "index.md",
   },
   themeConfig: {
+    logo: "favicon.jpg",
     socialLinks: [
       {
         icon: "github",
