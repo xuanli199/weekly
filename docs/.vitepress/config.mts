@@ -3,9 +3,11 @@ import { RSSOptions, RssPlugin } from "vitepress-plugin-rss";
 import { generateSidebar } from 'vitepress-sidebar';
 const RSS: RSSOptions = {
   title: "玄离199 每周科技补全",
-  baseUrl: "https://xuanli199.github.io",
+  baseUrl: "https://xuanli-weekly.netlify.app/",
   copyright: "Copyright (c) 2025, 玄离199",
   author: { name: '"玄离199"' },
+  language: 'zh-cn',
+  
 };
 
 export default defineConfig({
