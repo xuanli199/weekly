@@ -5,7 +5,7 @@ const RSS: RSSOptions = {
   title: "玄离199 每周科技补全",
   baseUrl: "https://xuanli199.github.io",
   copyright: "玄离199",
-  author: { name: '"玄离199"' },
+  author: { name: "玄离199" },
   filter: (post) => !post.filepath.includes("README.md"),
 };
 
@@ -13,6 +13,8 @@ const RSS: RSSOptions = {
 export default defineConfig({
   srcDir: "./",
   base: "/weekly/",
+  lang: "zh-CN",
+  lastUpdated: true,
   srcExclude: ["node_modules/**/*"],
   rewrites: {
     "README.md": "index.md",
@@ -51,8 +53,54 @@ export default defineConfig({
             combineWith: "AND",
           },
         },
+        // 一些本地化的字符串
+        translations: {
+          button: {
+            buttonText: "搜索文档",
+            buttonAriaLabel: "搜索文档",
+          },
+          modal: {
+            displayDetails: "显示详细搜索结果",
+            resetButtonTitle: "清空搜索关键字",
+            backButtonTitle: "返回",
+            noResultsText: "无法找到",
+            footer: {
+              selectText: "选择",
+              selectKeyAriaLabel: "Enter 键",
+              navigateText: "切换",
+              navigateUpKeyAriaLabel: "向上箭头",
+              navigateDownKeyAriaLabel: "向下箭头",
+              closeText: "关闭",
+              closeKeyAriaLabel: "Esc 键",
+            },
+          },
+        },
       },
     },
+
+    // 本地化文本
+    lastUpdated: {
+      text: "最后更新于",
+      formatOptions: {
+        dateStyle: "short",
+        timeStyle: "medium",
+      },
+    },
+
+    docFooter: {
+      prev: "上一页",
+      next: "下一页",
+    },
+
+    outline: {
+      label: "页面导航",
+    },
+
+    returnToTopLabel: "回到顶部",
+    sidebarMenuLabel: "菜单",
+    darkModeSwitchLabel: "主题",
+    lightModeSwitchTitle: "切换到浅色模式",
+    darkModeSwitchTitle: "切换到深色模式",
   },
   vite: {
     plugins: [RssPlugin(RSS)],
