@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/*.rss"
+  [headers.values]
+    Content-Type = "application/xml; charset=utf-8"
