@@ -1,0 +1,7 @@
+.vp-doc blockquote {
+    border-radius: 10px;
+    padding: 18px 20px 20px 15px;
+    position: relative;
+    background-color: var(--vp-c-gray-soft);
+    border-left: 6px solid var(--vp-c-brand-2);
+}
