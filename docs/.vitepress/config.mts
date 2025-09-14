@@ -92,7 +92,7 @@ export default defineConfig({
       // sortMenusByFrontmatterOrder: false,
       // sortMenusByFrontmatterDate: false,
       sortMenusOrderByDescending: true,
-      // sortMenusOrderNumericallyFromTitle: false,
+      sortMenusOrderNumericallyFromTitle: true,
       // sortMenusOrderNumericallyFromLink: false,
       // frontmatterOrderDefaultValue: 0,
       // manualSortFileNameByPriority: ['first.md', 'second', 'third.md'], //手动排序，文件夹不用带后缀

@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 最新文档
-      link: 2025年/9月/第66期
+      link: 2025年/9月/第67期
     - theme: alt
       text: 哔哩哔哩视频合集
       link: https://space.bilibili.com/67079745/lists/3173076
