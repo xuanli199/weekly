@@ -1,0 +1,38 @@
+{
+  "#info": "此文件的优先级低于 prettier 命令行选项，应用无作用时请检查命令行指令的设置",
+  "#see": "https://prettier.io/docs/options",
+
+  "#printWidth": "即将换行前一行的长度，此配置不作用于 Markdown",
+  "printWidth": 80,
+
+  "#tabWidth": "缩进空格数",
+  "tabWidth": 2,
+
+  "#useTabs": "是否使用制表符代替空格",
+  "useTabs": false,
+
+  "#semi": "句尾是否使用分号",
+  "semi": true,
+
+  "#singleQuote": "字符串是否使用单引号",
+  "singleQuote": false,
+
+  "#trailingComma": "多行时尾随逗号规则：<all|es5|none>",
+  "#trailingComma-all": "尽可能使用",
+  "#trailingComma-es5": "ES5 中有效的尾随逗号（换行的参数列表时末尾无逗号）",
+  "#trailingComma-none": "不使用",
+  "trailingComma": "all",
+
+  "#bracketSpacing": "单行时，大括号前后是否留白",
+  "bracketSpacing": true,
+
+  "#objectWrap": "对象换行规则：<preserve|collapse>",
+  "#objectWrap-preserve": "第一属性如果是换行的，则多行展示",
+  "#objectWrap-collapse": "尽可能以单行展示",
+  "objectWrap": "preserve",
+
+  "#arrowParens": "箭头函数单形参时括号规则：<always|avoid>",
+  "#arrowParens-always": "(x) => x",
+  "#arrowParens-avoid": "x => x",
+  "arrowParens": "always"
+}
