@@ -12,7 +12,6 @@ import bsz from "./bsz.vue";
     <template #layout-bottom>
       <bsz />
     </template>
-
   </DefaultTheme.Layout>
 </template>
 

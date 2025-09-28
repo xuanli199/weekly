@@ -3,7 +3,8 @@
     "busuanzi.pure.js": "^1.0.3",
     "vitepress": "^1.6.4",
     "vitepress-plugin-rss": "^0.3.1",
-    "vitepress-sidebar": "^1.33.0"
+    "vitepress-sidebar": "^1.33.0",
+    "vue": "^3.5.22"
   },
   "type": "module",
   "scripts": {

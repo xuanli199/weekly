@@ -6,8 +6,7 @@ const RSS: RSSOptions = {
   baseUrl: "https://xuanli-weekly.netlify.app/",
   copyright: "Copyright (c) 2025, 玄离199",
   author: { name: '"玄离199"' },
-  language: 'zh-cn',
-  
+  language: 'zh-cn',  
 };
 
 export default defineConfig({
