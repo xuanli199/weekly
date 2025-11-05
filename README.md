@@ -6,6 +6,10 @@
 
 飞书版：<https://zi0953ehkw.feishu.cn/wiki/TOHawcRzricMQ3kr6lmc7x8nnGc>
 
+### 2025年11月
+
+- 第74期：[2025年11月15日-2025年11月22日](docs/74.md)
+
 ### 2025年10月
 
 - 第73期：[2025年10月18日-2025年10月25日](docs/73.md)
